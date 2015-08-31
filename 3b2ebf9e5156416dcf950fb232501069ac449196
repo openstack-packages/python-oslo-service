@@ -1,0 +1,7 @@
+Verified+1: rdo-ci-jenkins <brad+jenkins@redhat.com>
+Code-Review+2: Lukáš Bezdička <lbezdick@redhat.com>
+Submitted-by: Lukáš Bezdička <lbezdick@redhat.com>
+Submitted-at: Mon, 31 Aug 2015 13:45:05 +0200
+Reviewed-on: https://review.gerrithub.io/244700
+Project: openstack-packages/python-oslo-service
+Branch: refs/heads/rpm-master
