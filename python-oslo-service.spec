@@ -14,6 +14,7 @@ BuildRequires:  python2-devel
 BuildRequires:  python-pbr
 BuildRequires:  python-sphinx
 BuildRequires:  python-oslo-sphinx
+BuildRequires:  python-oslo-config >= 1.11.0
 
 
 Requires:       python-babel
