@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa81d914_b40770c9",
+        "filename": "python-oslo-service.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 154,
+      "author": {
+        "id": 1000935
+      },
+      "writtenOn": "2016-02-07T13:07:32Z",
+      "side": 1,
+      "message": "Let\u0027s add comment explaining what\u0027s going on here,\nso that issue can be fixed eventually.",
+      "revId": "7c7cb743cee2e2be5dbc2c4fbf68006d62d84a46",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
