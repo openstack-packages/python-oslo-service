@@ -1,0 +1,7 @@
+Verified+1: rdo-ci-jenkins <whayutin+rdocijenkins@redhat.com>
+Code-Review+2: John Trowbridge <trown@redhat.com>
+Submitted-by: John Trowbridge <trown@redhat.com>
+Submitted-at: Mon, 15 Feb 2016 19:05:37 +0100
+Reviewed-on: https://review.gerrithub.io/263211
+Project: openstack-packages/python-oslo-service
+Branch: refs/heads/rpm-master
